@@ -1,6 +1,6 @@
 <div align="center">
 
-### x86 • Full‑Stack Architect
+### x86 • Gen-Z SkidLoser
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=false&width=520&height=45&lines=3D+web+graphics;Cloud-native+infrastructure;Real-time+interactive+systems" alt="Typing intro" />
 
